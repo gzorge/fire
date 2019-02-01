@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:0,shant
+#EXTGRP:unsorted
+http://198.16.64.45:8081/shant/index.m3u8?wmsAuthSign=1547429750Sa596638f23c065994fb35e5c7f2624bcS451h531h57h77
+#EXTINF:0,shant hd
+#EXTGRP:unsorted
+http://109.68.136.73:81/udp/235.10.10.169:1234
+#EXTINF:0,sha hd
+#EXTGRP:unsorted
+http://194.28.153.241:81/udp/225.0.2.72:1234
+#EXTINF:0,U!Premium
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0,Armenia Comedy
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0,Hay ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:0,ArmNews ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:0,Hay kino
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:0,Kinoman ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:0,Jan ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:0,Tava ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:0,Tuntunik
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0,Filmzone
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:0,Armenia H1
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:0,H2
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:0,H3
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:0,2 Hant Premium HD
+#EXTGRP:unsorted
+http://92.39.227.235:81/udp/235.10.10.169:1234
+#EXTINF:0,Armenia Tv
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:0,US Armenia Tv
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/USARMENIA480.m3u8
+#EXTINF:0,Kentron Tv
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:0,Ararat HD
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:0,Yerkir Media
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:0,ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:0,ArTV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s9/index.m3u8
+#EXTINF:0,21 Tv
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:0,Shoxakat
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:0,Azatutyun Tv
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:0,HorizonTv Armenia
+#EXTGRP:unsorted
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:0,High Vision Armenia
+#EXTGRP:unsorted
+http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/index.m3u8
+#EXTINF:0,AABC Armenia
+#EXTGRP:unsorted
+http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
+#EXTINF:0,AMGA Tv Armenia
+#EXTGRP:unsorted
+https://streamer1.connectto.com/AMGA_WEB_1202/amga/tracks-v1a1/mono.m3u8
+#EXTINF:0,iArmeniaMusic HD
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/iArmMusicHD.m3u8
+#EXTINF:0,Song Tv Armenia
+#EXTGRP:unsorted
+https://songtvam.ru:4443/high/playlist.m3u8
+#EXTINF:0,VMusic Armenia
+#EXTGRP:unsorted
+http://autopilot.myowntv.org/content/34414/index.m3u8#EXTM3U
+#EXTINF:0,Armenia Comedy
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0,Hay ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:0,ArmNews ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:0,ARTN Shant
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:0,Song Tv Armenia
+#EXTGRP:unsorted
+https://songtvam.ru:4443/high/playlist.m3u8
+#EXTINF:0,High Vision Armenia
+#EXTGRP:unsorted
+http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/index.m3u8
+#EXTINF:0,Hay kino
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:0,AABC Armenia
+#EXTGRP:unsorted
+http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
+#EXTINF:0,AMGA Tv Armenia
+#EXTGRP:unsorted
+http://204.174.104.71:88/AMGA_WEB_1202/amga/index.m3u8
+#EXTINF:0,iArmeniaMusic HD
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/iArmMusicHD.m3u8
+#EXTINF:0,US Armenia Tv
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/USARMENIA480.m3u8
+#EXTINF:0,HorizonTv Armenia
+#EXTGRP:unsorted
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:0,Kinoman ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:0,Jan ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:0,H3
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:0,Shoxakat
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:0,H1
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:0,Armenia Tv
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:0,Kentron Tv
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:0,Ararat HD
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:0,Yerkir Media
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:0,ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:0,ArTV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s9/index.m3u8
+#EXTINF:0,Tava ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:0,Tuntunik
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0,Azatutyun Tv
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:0,H2
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:0,21 Tv
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:0,Azatutyun Tv
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:0,U!Premium
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0,Bazmoc ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:0,1 resolution=720x576
+#EXTGRP:unsorted
+http://95.85.76.152:999/udp/239.191.255.147:15283
+#EXTINF:0,1 resolution=720
+#EXTGRP:unsorted
+http://194.28.153.241:81/udp/225.0.2.72:1234
+#EXTINF:0,1 resolution
+#EXTGRP:unsorted
+http://109.167.162.166:4022/udp/235.10.10.169:1234
